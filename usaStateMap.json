@@ -1,17 +1,252 @@
 [
   {
-    "state": "AK",
-    "percentage": 31,
-    "blurb": "Alaska is known for its vast wilderness and beautiful landscapes."
+    "state": "AL",
+    "percentage": 41,
+    "blurb": "Alabama is known for its rich history and significant contributions to the Civil Rights Movement."
   },
   {
-    "state": "AL",
-    "percentage": 45,
-    "blurb": "Alabama is famous for its role in the Civil Rights Movement."
+    "state": "AK",
+    "percentage": 49,
+    "blurb": "Alaska is renowned for its stunning wilderness, wildlife, and the Northern Lights."
+  },
+  {
+    "state": "AZ",
+    "percentage": 39,
+    "blurb": "Arizona boasts the Grand Canyon and a diverse desert landscape."
+  },
+  {
+    "state": "AR",
+    "percentage": 42,
+    "blurb": "Arkansas offers beautiful landscapes, including the Ozark Mountains and numerous lakes."
   },
   {
     "state": "CA",
-    "percentage": 22,
-    "blurb": "California is the most populous state in the US, known for its tech and entertainment industries."
+    "percentage": 42,
+    "blurb": "California is a cultural and economic powerhouse, home to Hollywood and Silicon Valley."
+  },
+  {
+    "state": "CO",
+    "percentage": 32,
+    "blurb": "Colorado is famous for its Rocky Mountains and outdoor recreational activities."
+  },
+  {
+    "state": "CT",
+    "percentage": 36,
+    "blurb": "Connecticut is known for its charming small towns and prestigious educational institutions."
+  },
+  {
+    "state": "DE",
+    "percentage": 47,
+    "blurb": "Delaware is the first state to ratify the US Constitution and has a rich colonial history."
+  },
+  {
+    "state": "FL",
+    "percentage": 29,
+    "blurb": "Florida is famous for its sunny beaches, theme parks, and vibrant tourism industry."
+  },
+  {
+    "state": "GA",
+    "percentage": 39,
+    "blurb": "Georgia is known for its peaches, diverse landscapes, and historical significance in the South."
+  },
+  {
+    "state": "HI",
+    "percentage": 36,
+    "blurb": "Hawaii offers stunning beaches, unique culture, and breathtaking volcanic landscapes."
+  },
+  {
+    "state": "ID",
+    "percentage": 39,
+    "blurb": "Idaho is celebrated for its rugged landscapes, outdoor adventures, and potato production."
+  },
+  {
+    "state": "IL",
+    "percentage": 38,
+    "blurb": "Illinois is home to Chicago, a major hub for finance, culture, and architecture."
+  },
+  {
+    "state": "IN",
+    "percentage": 37,
+    "blurb": "Indiana is known for its automotive industry and the famous Indianapolis 500 race."
+  },
+  {
+    "state": "IA",
+    "percentage": 36,
+    "blurb": "Iowa features expansive farmlands and is a key player in the US agricultural sector."
+  },
+  {
+    "state": "KS",
+    "percentage": 40,
+    "blurb": "Kansas is characterized by its vast plains and significant role in American aviation history."
+  },
+  {
+    "state": "KY",
+    "percentage": 38,
+    "blurb": "Kentucky is famous for the Kentucky Derby, horse racing, and bourbon production."
+  },
+  {
+    "state": "LA",
+    "percentage": 43,
+    "blurb": "Louisiana is known for its vibrant Creole culture, music, and the city of New Orleans."
+  },
+  {
+    "state": "ME",
+    "percentage": 40,
+    "blurb": "Maine offers picturesque coastlines, lighthouses, and is famous for its lobster."
+  },
+  {
+    "state": "MD",
+    "percentage": 44,
+    "blurb": "Maryland is known for its Chesapeake Bay, maritime history, and proximity to Washington D.C."
+  },
+  {
+    "state": "MA",
+    "percentage": 30,
+    "blurb": "Massachusetts is rich in American history and home to prestigious universities like Harvard."
+  },
+  {
+    "state": "MI",
+    "percentage": 42,
+    "blurb": "Michigan is renowned for its automotive industry and the beautiful Great Lakes."
+  },
+  {
+    "state": "MN",
+    "percentage": 39,
+    "blurb": "Minnesota is known for its thousands of lakes, vibrant arts scene, and the Twin Cities."
+  },
+  {
+    "state": "MS",
+    "percentage": 37,
+    "blurb": "Mississippi has a rich musical heritage and is pivotal in the history of blues music."
+  },
+  {
+    "state": "MO",
+    "percentage": 40,
+    "blurb": "Missouri is home to the Gateway Arch and a diverse mix of cultural and natural attractions."
+  },
+  {
+    "state": "MT",
+    "percentage": 35,
+    "blurb": "Montana offers stunning national parks, including Glacier National Park and vast wilderness."
+  },
+  {
+    "state": "NE",
+    "percentage": 35,
+    "blurb": "Nebraska is known for its prairies, agriculture, and the unique Sandhills region."
+  },
+  {
+    "state": "NV",
+    "percentage": 43,
+    "blurb": "Nevada is famous for Las Vegas, desert landscapes, and vibrant nightlife."
+  },
+  {
+    "state": "NH",
+    "percentage": 33,
+    "blurb": "New Hampshire is celebrated for its picturesque landscapes and the first primary in US elections."
+  },
+  {
+    "state": "NJ",
+    "percentage": 33,
+    "blurb": "New Jersey is known for its beaches, bustling urban areas, and significant contributions to music."
+  },
+  {
+    "state": "NM",
+    "percentage": 52,
+    "blurb": "New Mexico is renowned for its desert landscapes, Native American culture, and artistic heritage."
+  },
+  {
+    "state": "NY",
+    "percentage": 42,
+    "blurb": "New York is home to New York City, the Statue of Liberty, and diverse cultural landmarks."
+  },
+  {
+    "state": "NC",
+    "percentage": 39,
+    "blurb": "North Carolina offers a mix of mountains, beaches, and a strong research and development sector."
+  },
+  {
+    "state": "ND",
+    "percentage": 35,
+    "blurb": "North Dakota is known for its Great Plains, agriculture, and growing energy sector."
+  },
+  {
+    "state": "OH",
+    "percentage": 35,
+    "blurb": "Ohio is a key industrial state with a rich history in manufacturing and innovation."
+  },
+  {
+    "state": "OK",
+    "percentage": 45,
+    "blurb": "Oklahoma is known for its oil industry, Native American heritage, and vibrant music scene."
+  },
+  {
+    "state": "OR",
+    "percentage": 44,
+    "blurb": "Oregon features diverse landscapes from the Pacific coastline to lush forests and mountains."
+  },
+  {
+    "state": "PA",
+    "percentage": 36,
+    "blurb": "Pennsylvania is rich in American history, home to Philadelphia and the Liberty Bell."
+  },
+  {
+    "state": "RI",
+    "percentage": 38,
+    "blurb": "Rhode Island is the smallest US state, known for its coastal towns and maritime heritage."
+  },
+  {
+    "state": "SC",
+    "percentage": 39,
+    "blurb": "South Carolina is famed for its historic cities, beautiful beaches, and southern hospitality."
+  },
+  {
+    "state": "SD",
+    "percentage": 35,
+    "blurb": "South Dakota is home to Mount Rushmore and expansive prairie landscapes."
+  },
+  {
+    "state": "TN",
+    "percentage": 41,
+    "blurb": "Tennessee is known for its vibrant music scene, including Nashville's country music heritage."
+  },
+  {
+    "state": "TX",
+    "percentage": 42,
+    "blurb": "Texas is the second-largest state, known for its diverse culture, energy industry, and barbecue."
+  },
+  {
+    "state": "UT",
+    "percentage": 33,
+    "blurb": "Utah boasts stunning national parks, vibrant cities like Salt Lake City, and rich pioneer history."
+  },
+  {
+    "state": "VT",
+    "percentage": 38,
+    "blurb": "Vermont is celebrated for its green mountains, maple syrup, and charming small towns."
+  },
+  {
+    "state": "VA",
+    "percentage": 40,
+    "blurb": "Virginia is steeped in American history and offers a mix of beaches, mountains, and cities."
+  },
+  {
+    "state": "WA",
+    "percentage": 39,
+    "blurb": "Washington is home to Seattle, lush forests, and a thriving technology sector."
+  },
+  {
+    "state": "WV",
+    "percentage": 48,
+    "blurb": "West Virginia is known for its Appalachian Mountains, outdoor activities, and coal mining history."
+  },
+  {
+    "state": "WI",
+    "percentage": 37,
+    "blurb": "Wisconsin is famous for its dairy production, especially cheese, and vibrant cultural festivals."
+  },
+  {
+    "state": "WY",
+    "percentage": 29,
+    "blurb": "Wyoming is home to Yellowstone National Park and vast open landscapes."
   }
 ]
