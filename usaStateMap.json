@@ -1,0 +1,15 @@
+[
+  {
+    "state": "AK",
+    "percentage": 31
+  },
+  {
+    "state": "AL",
+    "percentage": 45
+  },
+  {
+    "state": "CA",
+    "percentage": 22
+  }
+  // Add other states similarly
+]
