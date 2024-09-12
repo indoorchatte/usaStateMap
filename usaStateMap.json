@@ -1,14 +1,17 @@
 [
   {
     "state": "AK",
-    "percentage": 31
+    "percentage": 31,
+    "blurb": "Alaska is known for its vast wilderness and beautiful landscapes."
   },
   {
     "state": "AL",
-    "percentage": 45
+    "percentage": 45,
+    "blurb": "Alabama is famous for its role in the Civil Rights Movement."
   },
   {
     "state": "CA",
-    "percentage": 22
+    "percentage": 22,
+    "blurb": "California is the most populous state in the US, known for its tech and entertainment industries."
   }
 ]
