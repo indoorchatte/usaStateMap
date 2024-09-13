@@ -2,701 +2,605 @@
   {
     "state": "AL",
     "percentage": 41,
-    "blurb": "In 2022, Black students had an average score that was 27 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 19 points lower than that
-for White students.
-• In 2022, male students in Alabama had an average score that was lower than that for
-female students by 10 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 24 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 27 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 19 points lower than that for White students.",
+        "In 2022, male students in Alabama had an average score that was lower than that for female students by 10 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 24 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "AK",
     "percentage": 49,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was not significantly different
-from that for White students.
-• In 2022, male students in Alaska had an average score that was lower than that for
-female students by 13 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 30 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was not significantly different from that for White students.",
+        "In 2022, male students in Alaska had an average score that was lower than that for female students by 13 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 30 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "AZ",
     "percentage": 39,
-    "blurb": "
-• In 2022, Black students had an average score that was 23 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 24 points lower than that
-for White students.
-• In 2022, male students in Arizona had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 25 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 23 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 24 points lower than that for White students.",
+        "In 2022, male students in Arizona had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 25 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "AR",
     "percentage": 42,
-    "blurb": "
-• In 2022, Black students had an average score that was 33 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 20 points lower than that
-for White students.
-• In 2022, male students in Arkansas had an average score that was lower than that for
-female students by 9 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 34 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 33 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 20 points lower than that for White students.",
+        "In 2022, male students in Arkansas had an average score that was lower than that for female students by 9 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 34 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "CA",
     "percentage": 42,
-    "blurb": "
-• In 2022, Black students had an average score that was 37 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 29 points lower than that
-for White students.
-• In 2022, male students in California had an average score that was lower than that for
-female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 34 points lower than that for students who were not
-eligible"
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 37 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 29 points lower than that for White students.",
+        "In 2022, male students in California had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 34 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "CO",
     "percentage": 32,
-    "blurb": "
-• In 2022, Black students had an average score that was 31 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 30 points lower than that
-for White students.
-• In 2022, male students in Colorado had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 31 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 30 points lower than that for White students.",
+        "In 2022, male students in Colorado had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "CT",
     "percentage": 36,
-    "blurb": "
-• In 2022, Black students had an average score that was 34 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 34 points lower than that
-for White students.
-• In 2022, male students in Connecticut had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 30 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 34 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 34 points lower than that for White students.",
+        "In 2022, male students in Connecticut had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 30 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "DE",
     "percentage": 47,
-    "blurb": "
-• In 2022, Black students had an average score that was 26 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 23 points lower than that
-for White students.
-• In 2022, male students in Delaware had an average score that was lower than that for
-female students by 8 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 25 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 26 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 23 points lower than that for White students.",
+        "In 2022, male students in Delaware had an average score that was lower than that for female students by 8 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 25 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "FL",
     "percentage": 29,
-    "blurb": "
-• In 2022, Black students had an average score that was 28 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 12 points lower than that
-for White students.
-• In 2022, male students in Florida had an average score that was lower than that for
-female students by 7 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 23 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 28 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 12 points lower than that for White students.",
+        "In 2022, male students in Florida had an average score that was lower than that for female students by 7 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 23 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "GA",
     "percentage": 39,
-    "blurb": "
-• In 2022, Black students had an average score that was 27 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 22 points lower than that
-for White students.
-• In 2022, male students in Georgia had an average score that was lower than that for
-female students by 10 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 28 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 27 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 22 points lower than that for White students.",
+        "In 2022, male students in Georgia had an average score that was lower than that for female students by 10 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 28 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "HI",
     "percentage": 36,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 17 points lower than that
-for White students.
-• In 2022, male students in Hawaii had an average score that was lower than that for
-female students by 12 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 26 points lower than that for students who were not
-eligible."
-  },
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 17 points lower than that for White students.",
+        "In 2022, male students in Hawaii had an average score that was lower than that for female students by 12 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 26 points lower than that for students who were not eligible."
+      ]
+    }
+  }
+]
+[
   {
     "state": "ID",
     "percentage": 39,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 16 points lower than that
-for White students.
-• In 2022, male students in Idaho had an average score that was lower than that for
-female students by 9 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 23 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 16 points lower than that for White students.",
+        "In 2022, male students in Idaho had an average score that was lower than that for female students by 9 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 23 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "IL",
     "percentage": 38,
-    "blurb": "
-• In 2022, Black students had an average score that was 34 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 22 points lower than that
-for White students.
-• In 2022, male students in Illinois had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 30 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 34 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 22 points lower than that for White students.",
+        "In 2022, male students in Illinois had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 30 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "IN",
     "percentage": 37,
-    "blurb": "
-• In 2022, Black students had an average score that was 29 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 13 points lower than that
-for White students.
-• In 2022, male students in Indiana had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 20 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 29 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 13 points lower than that for White students.",
+        "In 2022, male students in Indiana had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 20 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "IA",
     "percentage": 36,
-    "blurb": "
-• In 2022, Black students had an average score that was 30 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 21 points lower than that
-for White students.
-• In 2022, male students in Iowa had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 25 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 30 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 21 points lower than that for White students.",
+        "In 2022, male students in Iowa had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 25 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "KS",
     "percentage": 40,
-    "blurb": "
-• In 2022, Black students had an average score that was 27 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 22 points lower than that
-for White students.
-• In 2022, male students in Kansas had an average score that was lower than that for
-female students by 7 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 28 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 27 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 22 points lower than that for White students.",
+        "In 2022, male students in Kansas had an average score that was lower than that for female students by 7 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 28 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "KY",
     "percentage": 38,
-    "blurb": "
-• In 2022, Black students had an average score that was 20 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 13 points lower than that
-for White students.
-• In 2022, male students in Kentucky had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 26 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 20 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 13 points lower than that for White students.",
+        "In 2022, male students in Kentucky had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 26 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "LA",
     "percentage": 43,
-    "blurb": "
-• In 2022, Black students had an average score that was 29 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 16 points lower than that
-for White students.
-• In 2022, male students in Louisiana had an average score that was lower than that for
-female students by 9 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 30 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 29 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 16 points lower than that for White students.",
+        "In 2022, male students in Louisiana had an average score that was lower than that for female students by 9 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 30 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "ME",
     "percentage": 40,
-    "blurb": "
-• In 2022, Black students had an average score that was 35 points lower than that for
-White students.
-• Data are not reported for Hispanic students in 2022, because reporting standards
-were not met.
-• In 2022, male students in Maine had an average score that was lower than that for
-female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 26 points lower than that for students who were not
-eligible"
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 35 points lower than that for White students.",
+        "Data are not reported for Hispanic students in 2022, because reporting standards were not met.",
+        "In 2022, male students in Maine had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 26 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "MD",
     "percentage": 44,
-    "blurb": "
-• In 2022, Black students had an average score that was 29 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 40 points lower than that
-for White students.
-• In 2022, male students in Maryland had an average score that was lower than that for
-female students by 5 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible. "
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 29 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 40 points lower than that for White students.",
+        "In 2022, male students in Maryland had an average score that was lower than that for female students by 5 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "MA",
     "percentage": 30,
-    "blurb": "
-• In 2022, Black students had an average score that was 28 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 32 points lower than that
-for White students.
-• In 2022, male students in Massachusetts had an average score that was lower than
-that for female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 33 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 28 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 32 points lower than that for White students.",
+        "In 2022, male students in Massachusetts had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 33 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "MI",
     "percentage": 42,
-    "blurb": "
-• In 2022, Black students had an average score that was 32 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 18 points lower than that
-for White students.
-• In 2022, male students in Michigan had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 32 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 18 points lower than that for White students.",
+        "In 2022, male students in Michigan had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "MN",
     "percentage": 39,
-    "blurb": "
-• In 2022, Black students had an average score that was 33 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 29 points lower than that
-for White students.
-• In 2022, male students in Minnesota had an average score that was lower than that
-for female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 33 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 29 points lower than that for White students.",
+        "In 2022, male students in Minnesota had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "MS",
     "percentage": 37,
-    "blurb": "
-• In 2022, Black students had an average score that was 25 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 16 points lower than that
-for White students.
-• In 2022, male students in Mississippi had an average score that was lower than that
-for female students by 11 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 25 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 25 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 16 points lower than that for White students.",
+        "In 2022, male students in Mississippi had an average score that was lower than that for female students by 11 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 25 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "MO",
     "percentage": 40,
-    "blurb": "
-• In 2022, Black students had an average score that was 34 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 10 points lower than that
-for White students.
-• In 2022, male students in Missouri had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 30 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 34 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 10 points lower than that for White students.",
+        "In 2022, male students in Missouri had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 30 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "MT",
     "percentage": 35,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was not significantly different
-from that for White students.
-• In 2022, male students in Montana had an average score that was lower than that for
-female students by 9 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 24 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was not significantly different from that for White students.",
+        "In 2022, male students in Montana had an average score that was lower than that for female students by 9 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 24 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "NE",
     "percentage": 35,
-    "blurb": "
-• In 2022, Black students had an average score that was 34 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 24 points lower than that
-for White students.
-• In 2022, male students in Nebraska had an average score that was lower than that for
-female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 29 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 34 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 24 points lower than that for White students.",
+        "In 2022, male students in Nebraska had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 29 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "NV",
     "percentage": 43,
-    "blurb": "
-• In 2022, Black students had an average score that was 32 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 19 points lower than that
-for White students.
-• In 2022, male students in Nevada had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 21 points lower than that for students who were not
-eligible."
-  },
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 32 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 19 points lower than that for White students.",
+        "In 2022, male students in Nevada had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 21 points lower than that for students who were not eligible."
+      ]
+    }
+  }
+]
+[
   {
     "state": "NH",
     "percentage": 33,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 28 points lower than that
-for White students.
-• In 2022, male students in New Hampshire had an average score that was lower than
-that for female students by 8 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 24 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 28 points lower than that for White students.",
+        "In 2022, male students in New Hampshire had an average score that was lower than that for female students by 8 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 24 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "NJ",
     "percentage": 33,
-    "blurb": "
-• In 2022, Black students had an average score that was 28 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 22 points lower than that
-for White students.
-• In 2022, male students in New Jersey had an average score that was lower than that
-for female students by 12 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 30 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 28 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 22 points lower than that for White students.",
+        "In 2022, male students in New Jersey had an average score that was lower than that for female students by 12 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 30 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "NM",
     "percentage": 52,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 24 points lower than that
-for White students.
-• In 2022, male students in New Mexico had an average score that was lower than that
-for female students by 9 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 24 points lower than that for White students.",
+        "In 2022, male students in New Mexico had an average score that was lower than that for female students by 9 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "NY",
     "percentage": 42,
-    "blurb": "
-• In 2022, Black students had an average score that was 29 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 17 points lower than that
-for White students.
-• In 2022, male students in New York had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 28 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 29 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 17 points lower than that for White students.",
+        "In 2022, male students in New York had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 28 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "NC",
     "percentage": 39,
-    "blurb": "
-• In 2022, Black students had an average score that was 30 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 23 points lower than that
-for White students.
-• In 2022, male students in North Carolina had an average score that was lower than
-that for female students by 7 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 25 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 30 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 23 points lower than that for White students.",
+        "In 2022, male students in North Carolina had an average score that was lower than that for female students by 7 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 25 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "ND",
     "percentage": 35,
-    "blurb": "
-• In 2022, Black students had an average score that was 33 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 20 points lower than that
-for White students.
-• In 2022, male students in North Dakota had an average score that was lower than that
-for female students by 7 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 23 points lower than that for students who were not
-eligible. "
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 33 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 20 points lower than that for White students.",
+        "In 2022, male students in North Dakota had an average score that was lower than that for female students by 7 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 23 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "OH",
     "percentage": 35,
-    "blurb": "
-• In 2022, Black students had an average score that was 35 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 30 points lower than that
-for White students.
-• In 2022, male students in Ohio had an average score that was lower than that for
-female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 35 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 30 points lower than that for White students.",
+        "In 2022, male students in Ohio had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "OK",
     "percentage": 45,
-    "blurb": "
-• In 2022, Black students had an average score that was 22 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 20 points lower than that
-for White students.
-• In 2022, male students in Oklahoma had an average score that was lower than that for
-female students by 11 points. This performance gap was wider than that in 1998 (2
-points).
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 22 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 22 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 20 points lower than that for White students.",
+        "In 2022, male students in Oklahoma had an average score that was lower than that for female students by 11 points. This performance gap was wider than that in 1998 (2 points).",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 22 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "OR",
     "percentage": 44,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 26 points lower than that
-for White students.
-• In 2022, male students in Oregon had an average score that was lower than that for
-female students by 7 points.
-• Data are not reported for students who were not eligible for the National School Lunch
-Program (NSLP) in 2022, because reporting standards were not met."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 26 points lower than that for White students.",
+        "In 2022, male students in Oregon had an average score that was lower than that for female students by 7 points.",
+        "Data are not reported for students who were not eligible for the National School Lunch Program (NSLP) in 2022, because reporting standards were not met."
+      ]
+    }
   },
   {
     "state": "PA",
     "percentage": 36,
-    "blurb": "
-• In 2022, Black students had an average score that was 32 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 23 points lower than that
-for White students.
-• In 2022, male students in Pennsylvania had an average score that was not
-significantly different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 31 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 32 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 23 points lower than that for White students.",
+        "In 2022, male students in Pennsylvania had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 31 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "RI",
     "percentage": 38,
-    "blurb": "
-• In 2022, Black students had an average score that was 32 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 28 points lower than that
-for White students.
-• In 2022, male students in Rhode Island had an average score that was lower than that
-for female students by 11 points. This performance gap was wider than that in 1998 (1
-point in favor of males).
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 27 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 32 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 28 points lower than that for White students.",
+        "In 2022, male students in Rhode Island had an average score that was lower than that for female students by 11 points. This performance gap was wider than that in 1998 (1 point in favor of males).",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 27 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "SC",
     "percentage": 39,
-    "blurb": "
-• In 2022, Black students had an average score that was 31 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 30 points lower than that
-for White students.
-• In 2022, male students in South Carolina had an average score that was lower than
-that for female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 31 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 31 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 30 points lower than that for White students.",
+        "In 2022, male students in South Carolina had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 31 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "SD",
     "percentage": 35,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 18 points lower than that
-for White students.
-• In 2022, male students in South Dakota had an average score that was lower than
-that for female students by 11 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 28 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 18 points lower than that for White students.",
+        "In 2022, male students in South Dakota had an average score that was lower than that for female students by 11 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 28 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "TN",
     "percentage": 41,
-    "blurb": "
-• In 2022, Black students had an average score that was 29 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 16 points lower than that
-for White students.
-• In 2022, male students in Tennessee had an average score that was lower than that
-for female students by 6 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 23 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 29 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 16 points lower than that for White students.",
+        "In 2022, male students in Tennessee had an average score that was lower than that for female students by 6 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 23 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "TX",
     "percentage": 42,
-    "blurb": "
-• In 2022, Black students had an average score that was 24 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 24 points lower than that
-for White students.
-• In 2022, male students in Texas had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 30 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 24 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 24 points lower than that for White students.",
+        "In 2022, male students in Texas had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 30 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "UT",
     "percentage": 33,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 28 points lower than that
-for White students.
-• In 2022, male students in Utah had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 28 points lower than that for White students.",
+        "In 2022, male students in Utah had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "VT",
     "percentage": 38,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• Data are not reported for Hispanic students in 2022, because reporting standards
-were not met.
-• In 2022, male students in Vermont had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 25 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "Data are not reported for Hispanic students in 2022, because reporting standards were not met.",
+        "In 2022, male students in Vermont had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 25 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "VA",
     "percentage": 40,
-    "blurb": "
-• In 2022, Black students had an average score that was 29 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 30 points lower than that
-for White students.
-• In 2022, male students in Virginia had an average score that was lower than that for
-female students by 13 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 37 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 29 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 30 points lower than that for White students.",
+        "In 2022, male students in Virginia had an average score that was lower than that for female students by 13 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 37 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "WA",
     "percentage": 39,
-    "blurb": "
-• In 2022, Black students had an average score that was 16 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 32 points lower than that
-for White students.
-• In 2022, male students in Washington had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 32 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 16 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 32 points lower than that for White students.",
+        "In 2022, male students in Washington had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 32 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "WV",
     "percentage": 48,
-    "blurb": "
-• In 2022, Black students had an average score that was not significantly different from
-that for White students.
-• Data are not reported for Hispanic students in 2022, because reporting standards
-were not met.
-• In 2022, male students in West Virginia had an average score that was not
-significantly different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 24 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was not significantly different from that for White students.",
+        "Data are not reported for Hispanic students in 2022, because reporting standards were not met.",
+        "In 2022, male students in West Virginia had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 24 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "WI",
     "percentage": 37,
-    "blurb": "
-• In 2022, Black students had an average score that was 40 points lower than that for
-White students.
-• In 2022, Hispanic students had an average score that was 24 points lower than that
-for White students.
-• In 2022, male students in Wisconsin had an average score that was lower than that for
-female students by 9 points.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 29 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "In 2022, Black students had an average score that was 40 points lower than that for White students.",
+        "In 2022, Hispanic students had an average score that was 24 points lower than that for White students.",
+        "In 2022, male students in Wisconsin had an average score that was lower than that for female students by 9 points.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 29 points lower than that for students who were not eligible."
+      ]
+    }
   },
   {
     "state": "WY",
     "percentage": 29,
-    "blurb": "
-• Data are not reported for Black students in 2022, because reporting standards were
-not met.
-• In 2022, Hispanic students had an average score that was 14 points lower than that
-for White students.
-• In 2022, male students in Wyoming had an average score that was not significantly
-different from that for female students.
-• In 2022, students who were eligible for the National School Lunch Program (NSLP)
-had an average score that was 19 points lower than that for students who were not
-eligible."
+    "blurb": {
+      "points": [
+        "Data are not reported for Black students in 2022, because reporting standards were not met.",
+        "In 2022, Hispanic students had an average score that was 14 points lower than that for White students.",
+        "In 2022, male students in Wyoming had an average score that was not significantly different from that for female students.",
+        "In 2022, students who were eligible for the National School Lunch Program (NSLP) had an average score that was 19 points lower than that for students who were not eligible."
+      ]
+    }
   }
 ]
